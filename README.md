@@ -1,5 +1,5 @@
 ## Register
-![register](https://github.com/user-attachments/assets/70b62724-72b2-4392-8ba4-56d7283f149e)
+![register](https://github.com/user-attachments/assets/ad525622-810b-49df-a249-4d664ea29984)
 ## Login
 ![Login](https://github.com/user-attachments/assets/52dda149-0c3c-48b6-95eb-83ddd3d9088f)
 
@@ -36,5 +36,6 @@ Proyek ini hanya untuk belajar dan latihan. Tidak ada fitur login atau autentika
 
 **Design inspiration:**
 [Login & Sign up - Dark Mode | UI/UX Design on Dribbble](https://dribbble.com/shots/24552589-Login-Sign-up-Dark-Mode-UI-UX-Design)
+
 
 
