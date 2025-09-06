@@ -1,0 +1,23 @@
+name: login_page
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  carousel_slider: ^5.1.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - lib/assets/logo/
+    - lib/assets/image/
+  uses-material-design: true
